@@ -73,7 +73,6 @@ public class Assignment13 {
 						System.exit(0);
 					}
 					
-					
 					continue;
 				}
 				System.out.println("end of loop inside --------------------------");
